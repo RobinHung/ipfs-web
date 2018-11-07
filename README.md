@@ -6,6 +6,13 @@
 * http://localhost:8080/ipns/QmQnoFHgrF4iMQZqtNTKSeWuXBz9UtoGpsH5Xs4RvB7RNB
 * https://gateway.ipfs.io/ipns/QmQnoFHgrF4iMQZqtNTKSeWuXBz9UtoGpsH5Xs4RvB7RNB
 
+Or view this page in the traditional way: https://robinhung.github.io/ipfs-web
+
+*NOTICE*:
+You can only view the website using `localhost:8080` if you're running the IPFS node.
+
+However, you can use the url `http://gateway.ipfs.io/ipfs/FILE_HASH` to view the resources uploaded to ipfs. So share this url to your friend to view the IPFS-hosted website on your mobile! :) 
+
 P.S.
 The hash ending with `ewW` is the hash of `index.html` being deployed to IPFS.
 The has ending with `RNB` is my IPFS peer ID. (**`ipns`** instead of `ipfs` in this case)
