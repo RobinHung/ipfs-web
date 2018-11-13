@@ -8,10 +8,17 @@
 
 Or view this page in the traditional way: https://robinhung.github.io/ipfs-web
 
+<<<<<<< HEAD
 *NOTICE*:
 You can only view the website using `localhost:8080` if you're running the IPFS node.
 
 However, you can use the url `http://gateway.ipfs.io/ipfs/FILE_HASH` to view the resources uploaded to ipfs. So share this url to your friend to view the IPFS-hosted website on your mobile! :) 
+=======
+#### NOTICE
+You can only view the website using `localhost:8080` if you're running the IPFS node. (`ipfs daemon` command)
+
+However, you can use the url `http://gateway.ipfs.io/ipfs/FILE_HASH` to view the resources uploaded to ipfs. So share this url to your friend to view the IPFS-hosted website on your mobile! :)
+>>>>>>> origin/master
 
 P.S.
 The hash ending with `ewW` is the hash of `index.html` being deployed to IPFS.
